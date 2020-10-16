@@ -15,7 +15,7 @@
 </td></tr></table>
 
 
-**O que é OEE ?** *Overall Equipment Effectiveness*  é um indicador que tem como objetivo medir a Eficiência Geral (ou Global) do Equipamento, medindo as paradas e, com isso, identificar oprtunidades para aumentar a eficiencia do sistema produtivo, eliminando o desperdício.
+**O que é OEE ?** *Overall Equipment Effectiveness*  é um indicador que tem como objetivo medir a Eficiência Geral (ou Global) do Equipamento, medindo as paradas e, com isso, identificar oportunidades para aumentar a eficiência do sistema produtivo, eliminando o desperdício.
 
 O OEE é o produto de três fatores valiosos para entender a eficiência da máquina. São eles:
 
@@ -25,14 +25,14 @@ O OEE é o produto de três fatores valiosos para entender a eficiência da máq
 
 * **Qualidade** -  quantidade de itens bons foram produzidos em relação ao total de itens produzidos
 
-Portanto a quaquação ficaria assim: 
+Portanto a equação ficaria assim: 
 
 > **OEE = [Disponibilidade] * [Performance] * [Qualidade]**
 
 
-O **obejetivo** do projeto foi cirar um Dashboard que automatiza a processo do calculo OEE. A base de dados foi extraida do SQL Server, o que aumanta a automatização desse processo. 
+O **objetivo** do projeto foi criar um Dashboard que automatiza a processo de cálculo do OEE. A base de dados foi extraída do SQL Server, o que aumenta a automatização desse processo. 
 
-Os aqruivos podem ser encontrados neste repositorio. 
+Os arquivos podem ser encontrados neste repositório. 
 
 
 #
