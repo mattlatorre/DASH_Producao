@@ -19,11 +19,15 @@
 
 O OEE é o produto de três fatores valiosos para entender a eficiência da máquina. São eles:
 
-* **Disponibilidade** - Perdas que reduzem o tempo de operação do equipamento e são causadas por paradas não programadas maiores que 5 minutos
+* **Disponibilidade** - quanto tempo o equipamento produziu em relação ao tempo total disponível para produção
 
-* **Qualidade** - Tempo perdido produzindo refugos e perda de tempo necessário para retrabalho.
+* **Performance** -  quão bem o equipamento produziu, comparando a quantidade produzida com a quantidade teórica que poderia ter sido produzida enquanto o equipamento estava produzindo
 
-* **Performance** -  São perdas causadas por paradas menores que 5 minutos ou pelo aumento do Tempo de Ciclo técnico da linha.
+* **Qualidade** -  quantidade de itens bons foram produzidos em relação ao total de itens produzidos
+
+Portanto a quaquação ficaria assim: 
+
+> **OEE = [Disponibilidade] * [Performance] * [Qualidade]**
 
 
 
