@@ -14,8 +14,3 @@
 
 </td></tr></table>
 
-
-
-<p align="center">
-  <img src = "OEE.jpg" width=50%>
-</p>
