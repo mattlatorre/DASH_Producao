@@ -6,9 +6,12 @@
 
 <table align="center"><tr><td align="center" width="9999">
 
-# OEE
+ **OEE** - Overall Equipment Effectiveness
 
-Overall Equipment Effectiveness
+<p align="center">
+  <img src = "OEE.jpg" width=50%>
+</p>
+
 </td></tr></table>
 
 
