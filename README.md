@@ -30,6 +30,10 @@ Portanto a quaquação ficaria assim:
 > **OEE = [Disponibilidade] * [Performance] * [Qualidade]**
 
 
+O **obejetivo** do projeto foi cirar um Dashboard que automatiza a processo do calculo OEE. A base de dados foi extraida do SQL Server, o que aumanta a automatização desse processo. 
+
+Os aqruivos podem ser encontrados neste repositorio. 
+
 
 
 
