@@ -35,6 +35,24 @@ O **obejetivo** do projeto foi cirar um Dashboard que automatiza a processo do c
 Os aqruivos podem ser encontrados neste repositorio. 
 
 
+#
+
+<p align="center">
+  <img src = "Dashboard Produção - OEE/Slide1.JPG" width=70%>
+</p>
+
+<p align="center">
+  <img src = "Dashboard Produção - OEE/Slide2.JPG" width=70%>
+</p>
+
+<p align="center">
+  <img src = "Dashboard Produção - OEE/Slide3.JPG" width=70%>
+</p>
+
+
+
+# 
+
 
 
 
