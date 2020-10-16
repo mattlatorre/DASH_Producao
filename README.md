@@ -14,3 +14,23 @@
 
 </td></tr></table>
 
+
+**O que é OEE ?** *Overall Equipment Effectiveness*  é um indicador que tem como objetivo medir a Eficiência Geral (ou Global) do Equipamento, medindo as paradas e, com isso, identificar oprtunidades para aumentar a eficiencia do sistema produtivo, eliminando o desperdício.
+
+O OEE é o produto de três fatores valiosos para entender a eficiência da máquina. São eles:
+
+* **Disponibilidade** - Perdas que reduzem o tempo de operação do equipamento e são causadas por paradas não programadas maiores que 5 minutos
+
+* **Qualidade** - Tempo perdido produzindo refugos e perda de tempo necessário para retrabalho.
+
+* **Performance** -  São perdas causadas por paradas menores que 5 minutos ou pelo aumento do Tempo de Ciclo técnico da linha.
+
+
+
+
+
+
+
+
+
+
