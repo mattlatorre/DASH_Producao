@@ -4,6 +4,14 @@
 
 # Dashboard Produção
 
+<table align="center"><tr><td align="center" width="9999">
+
+# OEE
+
+Overall Equipment Effectiveness
+</td></tr></table>
+
+
 
 <p align="center">
   <img src = "OEE.jpg" width=50%>
