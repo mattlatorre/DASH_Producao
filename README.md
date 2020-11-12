@@ -32,6 +32,8 @@ Portanto a equação ficaria assim:
 
 O **objetivo** do projeto foi criar um Dashboard que automatiza a processo de cálculo do OEE. A base de dados foi extraída do SQL Server, o que aumenta a automatização desse processo. 
 
+É possivel acessar o Dashboard de forma interativa no link a seguir: **https://bit.ly/2K6EZVj**
+
 Os arquivos podem ser encontrados neste repositório. 
 
 
